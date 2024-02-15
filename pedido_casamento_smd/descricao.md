@@ -1,7 +1,14 @@
 # Pedido de casamento
 Sequência de LED's escrito "Casa comigo ?"  acendendo em duas cenas possíveis e um coração acendendo separadamente. Criei esse circuito para fazer o pedido de casamento a minha noiva.
 
-### Imagens 3D geradas no Kicad: 
+### Arquivos importantes nessa pasta
+
+- pedido_casamento_smd.kicad* - arquivos do projeto no KiCAD;
+- pedido_casamento_smd_gbr.rar - arquivos gerber para fabricação da PCB;
+- esquematico.pdf - esquemático em formato PDF, também pode ser visualizado no KiCAD pelo arquivo pedido_casamento_smd.kicad_sch;
+- *.png, *.jpg ou *.mp4, imagens e vídeos sobre o projeto.
+
+### Imagens 3D geradas no KiCAD: 
 
 ![Captura de tela 2024-02-14 210953](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\Captura de tela 2024-02-14 210953.png) 
 
