@@ -11,7 +11,3 @@ O primeiro projeto consiste em um painel de LEDs controlado por circuitos integr
 ### 2. Fonte de bancada linear
 
 Este projeto apresenta uma fonte de bancada linear de 48W com saídas de tensão ajustáveis positiva e negativa, oferecendo uma corrente máxima de 2A a 24V. Implementado com amplificadores operacionais, um Arduino e um LCD cristal, este dispositivo proporciona precisão e controle sobre a saída de energia. Além disso, inclui recursos de proteção com limitação de corrente, garantindo a segurança do equipamento conectado. Com a adição de voltímetro e amperímetro, os usuários podem monitorar facilmente a tensão e a corrente de saída, tornando-o uma solução versátil e confiável para diversas aplicações de eletrônica. Para mais informações, consulte o README na pasta `Fonte_bancada_linear_48W`.
-
----
-
-Esse README dá uma visão geral dos projetos contidos na pasta principal e direciona o leitor para obter mais informações em cada projeto individualmente.
