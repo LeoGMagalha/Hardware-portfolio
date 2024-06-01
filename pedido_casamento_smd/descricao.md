@@ -9,15 +9,15 @@ Sequência de LED's escrito "Casa comigo ?"  acendendo em duas cenas possíveis 
 
 ### Imagens 3D geradas no KiCAD: 
 
-![Captura de tela 2024-02-14 210953](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\Captura de tela 2024-02-14 210953.png) 
+![PCB 3D Frente](/pedido_casamento_smd/media/3D_1.png) 
 
-![Captura de tela 2024-02-14 211134](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\Captura de tela 2024-02-14 211134.png)
+![PCB 3D Verso](/pedido_casamento_smd/media/3D_2.png)
 
 ### Protótipo
 
-![IMG_20221209_104448](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\IMG_20221209_104448.jpg)
+![IMG_20221209_104448](/pedido_casamento_smd/media/IMG_20221209_104448.jpg)
 
-![WhatsApp Image 2024-02-14 at 21.27.28](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\WhatsApp Image 2024-02-14 at 21.27.28.png)
+![WhatsApp Image 2024-02-14 at 21.27.28](/pedido_casamento_smd/media/Prot_1.png)
 
 ### Componentes utilizados
 
