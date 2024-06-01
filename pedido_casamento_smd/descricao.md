@@ -3,26 +3,21 @@ Sequência de LED's escrito "Casa comigo ?"  acendendo em duas cenas possíveis 
 
 ### Arquivos importantes nessa pasta
 
-- pedido_casamento_smd.kicad* - arquivos do projeto no KiCAD;
-- pedido_casamento_smd_gbr.rar - arquivos gerber para fabricação da PCB;
+- kicad/* - arquivos do projeto no KiCAD;
 - esquematico.pdf - esquemático em formato PDF, também pode ser visualizado no KiCAD pelo arquivo pedido_casamento_smd.kicad_sch;
-- *.png, *.jpg ou *.mp4, imagens e vídeos sobre o projeto.
+- media/* - imagens e vídeos sobre o projeto.
 
 ### Imagens 3D geradas no KiCAD: 
 
-![Captura de tela 2024-02-14 210953](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\Captura de tela 2024-02-14 210953.png) 
+![Captura de tela 2024-02-14 210953](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\Captura de tela 2024-02-14 210953.png) 
 
-![Captura de tela 2024-02-14 211134](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\Captura de tela 2024-02-14 211134.png)
+![Captura de tela 2024-02-14 211134](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\Captura de tela 2024-02-14 211134.png)
 
 ### Protótipo
 
-![IMG_20221209_104448](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\IMG_20221209_104448.jpg)
+![IMG_20221209_104448](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\IMG_20221209_104448.jpg)
 
-![WhatsApp Image 2024-02-14 at 21.27.28](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\WhatsApp Image 2024-02-14 at 21.27.28.png)
-
-### Vídeo de funcionamento do protótipo:
-
-
+![WhatsApp Image 2024-02-14 at 21.27.28](C:\Users\leona\OneDrive\Drive\Projeto Engenheiro de Hardware\Hardware-portfolio\pedido_casamento_smd\media\WhatsApp Image 2024-02-14 at 21.27.28.png)
 
 ### Componentes utilizados
 
